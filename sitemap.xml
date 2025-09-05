@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://willson-wen.github.io/personal-blog/categories/</loc>
+    <loc>https://willson-wen.github.io/blog/categories/</loc>
   </url><url>
-    <loc>https://willson-wen.github.io/personal-blog/tags/</loc>
+    <loc>https://willson-wen.github.io/blog/tags/</loc>
   </url><url>
-    <loc>https://willson-wen.github.io/personal-blog/</loc>
+    <loc>https://willson-wen.github.io/blog/</loc>
   </url>
 </urlset>

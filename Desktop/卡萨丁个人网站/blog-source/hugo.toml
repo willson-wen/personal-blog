@@ -1,4 +1,4 @@
-baseURL = 'https://willson-wen.github.io/personal-blog/'
+baseURL = 'https://willson-wen.github.io/'
 languageCode = 'en-us'
 title = '卡萨丁'
 theme = 'PaperModX'

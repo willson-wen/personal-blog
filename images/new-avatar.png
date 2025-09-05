@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- 圆形背景 -->
+  <circle cx="200" cy="200" r="200" fill="#f0f0f0" stroke="#ddd" stroke-width="2"/>
+  
+  <!-- 头部 -->
+  <ellipse cx="200" cy="160" rx="60" ry="70" fill="#ffdbac"/>
+  
+  <!-- 头发 -->
+  <path d="M140 120 Q200 80 260 120 Q250 100 200 90 Q150 100 140 120" fill="#2c1810"/>
+  <path d="M140 120 Q160 140 180 130 Q190 125 200 130 Q210 125 220 130 Q240 140 260 120 L260 160 Q240 150 220 155 Q200 150 180 155 Q160 150 140 160 Z" fill="#2c1810"/>
+  
+  <!-- 眼镜框架 -->
+  <ellipse cx="175" cy="150" rx="25" ry="20" fill="none" stroke="#333" stroke-width="4"/>
+  <ellipse cx="225" cy="150" rx="25" ry="20" fill="none" stroke="#333" stroke-width="4"/>
+  <line x1="200" y1="145" x2="200" y2="155" stroke="#333" stroke-width="3"/>
+  <line x1="150" y1="145" x2="140" y2="140" stroke="#333" stroke-width="3"/>
+  <line x1="250" y1="145" x2="260" y2="140" stroke="#333" stroke-width="3"/>
+  
+  <!-- 眼镜片 -->
+  <ellipse cx="175" cy="150" rx="22" ry="17" fill="rgba(255,255,255,0.3)"/>
+  <ellipse cx="225" cy="150" rx="22" ry="17" fill="rgba(255,255,255,0.3)"/>
+  
+  <!-- 眼睛 -->
+  <circle cx="175" cy="150" r="8" fill="#333"/>
+  <circle cx="225" cy="150" r="8" fill="#333"/>
+  <circle cx="177" cy="148" r="2" fill="white"/>
+  <circle cx="227" cy="148" r="2" fill="white"/>
+  
+  <!-- 鼻子 -->
+  <path d="M195 165 Q200 170 205 165" fill="none" stroke="#d4a574" stroke-width="2"/>
+  
+  <!-- 嘴巴 -->
+  <path d="M185 185 Q200 195 215 185" fill="none" stroke="#333" stroke-width="2"/>
+  
+  <!-- 耳朵 -->
+  <ellipse cx="140" cy="160" rx="8" ry="15" fill="#ffdbac"/>
+  <ellipse cx="260" cy="160" rx="8" ry="15" fill="#ffdbac"/>
+  
+  <!-- 身体/衣服 -->
+  <path d="M120 230 Q200 220 280 230 L280 400 L120 400 Z" fill="#2c3e50"/>
+  
+  <!-- 衣领 -->
+  <path d="M160 230 Q200 240 240 230 Q220 250 200 255 Q180 250 160 230" fill="white"/>
+</svg>

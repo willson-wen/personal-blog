@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- 圆形背景 -->
+  <circle cx="200" cy="200" r="200" fill="#f0f0f0" stroke="#ddd" stroke-width="2"/>
+  
+  <!-- 头部轮廓 -->
+  <path d="M120 180 Q120 120 200 120 Q280 120 280 180 Q280 220 260 250 Q240 280 200 290 Q160 280 140 250 Q120 220 120 180 Z" fill="white" stroke="#333" stroke-width="3"/>
+  
+  <!-- 头发 -->
+  <path d="M130 140 Q200 100 270 140 Q260 120 240 110 Q220 105 200 105 Q180 105 160 110 Q140 120 130 140" fill="#1a1a1a"/>
+  <path d="M130 140 Q150 160 170 155 Q185 150 200 155 Q215 150 230 155 Q250 160 270 140 L270 180 Q250 170 230 175 Q200 170 170 175 Q150 170 130 180 Z" fill="#1a1a1a"/>
+  
+  <!-- 眼镜框架 -->
+  <rect x="145" y="160" width="50" height="30" rx="15" fill="none" stroke="#000" stroke-width="4"/>
+  <rect x="205" y="160" width="50" height="30" rx="15" fill="none" stroke="#000" stroke-width="4"/>
+  <line x1="195" y1="170" x2="205" y2="170" stroke="#000" stroke-width="3"/>
+  <line x1="145" y1="170" x2="135" y2="165" stroke="#000" stroke-width="3"/>
+  <line x1="255" y1="170" x2="265" y2="165" stroke="#000" stroke-width="3"/>
+  
+  <!-- 眼镜片 -->
+  <rect x="147" y="162" width="46" height="26" rx="13" fill="rgba(255,255,255,0.3)"/>
+  <rect x="207" y="162" width="46" height="26" rx="13" fill="rgba(255,255,255,0.3)"/>
+  
+  <!-- 眼睛 -->
+  <ellipse cx="170" cy="175" rx="8" ry="10" fill="#000"/>
+  <ellipse cx="230" cy="175" rx="8" ry="10" fill="#000"/>
+  <circle cx="172" cy="173" r="2" fill="white"/>
+  <circle cx="232" cy="173" r="2" fill="white"/>
+  
+  <!-- 鼻子 -->
+  <path d="M195 195 Q200 200 205 195" fill="none" stroke="#666" stroke-width="2"/>
+  
+  <!-- 嘴巴 -->
+  <path d="M185 220 Q200 230 215 220" fill="none" stroke="#333" stroke-width="3"/>
+  
+  <!-- 耳朵 -->
+  <ellipse cx="120" cy="180" rx="10" ry="20" fill="white" stroke="#333" stroke-width="2"/>
+  <ellipse cx="280" cy="180" rx="10" ry="20" fill="white" stroke="#333" stroke-width="2"/>
+  
+  <!-- 脖子和衣领 -->
+  <path d="M160 290 Q200 300 240 290 L240 400 L160 400 Z" fill="#1a1a1a"/>
+  <path d="M170 290 Q200 300 230 290 Q215 310 200 315 Q185 310 170 290" fill="white"/>
+</svg>

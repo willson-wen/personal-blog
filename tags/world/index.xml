@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>World on 卡萨丁</title>
+    <link>https://willson-wen.github.io/personal-blog/tags/world/</link>
+    <description>Recent content in World on 卡萨丁</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://willson-wen.github.io/personal-blog/tags/world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://willson-wen.github.io/personal-blog/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://willson-wen.github.io/personal-blog/posts/hello-world/</guid>
+      <description>我的第一篇博客文章</description>
+      <content:encoded><![CDATA[<h1 id="欢迎来到我的博客">欢迎来到我的博客</h1>
+<p>这是我的第一篇博客文章！</p>
+<h2 id="关于这个博客">关于这个博客</h2>
+<p>这个博客使用Hugo和PaperModX主题构建，用于分享我的想法和经验。</p>
+<h2 id="未来计划">未来计划</h2>
+<ul>
+<li>分享产品设计经验</li>
+<li>技术开发心得</li>
+<li>生活感悟</li>
+</ul>
+<p>感谢您的访问！</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

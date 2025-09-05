@@ -2,34 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://willson-wen.github.io/personal-blog/about/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://willson-wen.github.io/personal-blog/categories/blog/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://willson-wen.github.io/personal-blog/categories/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://willson-wen.github.io/personal-blog/tags/hello/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://willson-wen.github.io/personal-blog/posts/hello-world/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://willson-wen.github.io/personal-blog/posts/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://willson-wen.github.io/personal-blog/search/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://willson-wen.github.io/personal-blog/tags/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://willson-wen.github.io/personal-blog/tags/world/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://willson-wen.github.io/personal-blog/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url>
 </urlset>
